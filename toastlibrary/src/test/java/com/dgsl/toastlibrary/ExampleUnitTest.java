@@ -1,4 +1,4 @@
-package com.dgsl.toastmessagelibrary;
+package com.dgsl.toastlibrary;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.dgsl.toastmaster;
+package com.dgsl.toastlibrary;
 
 import android.content.Context;
 import android.widget.Toast;
